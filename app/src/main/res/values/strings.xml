@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fuel Assistant</string>
+    <string name="distance">Distance</string>
+    <string name="a_speed_label">A Speed</string>
+    <string name="b_speed_label">B Speed</string>
+    <string name="calculate">Calculate</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="result">Difference in time is %s</string>
+</resources>
